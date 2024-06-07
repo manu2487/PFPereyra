@@ -120,6 +120,7 @@ body {
   max-width: 80%;
 }
 .video-container iframe {
+  /* width="560" height="315" */
   position: absolute;
   top: 0;
   left: 0;
