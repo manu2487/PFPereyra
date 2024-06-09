@@ -388,6 +388,11 @@ main {
   .encabezado .boton {
     display: none;
   }
+  /* Index video insertado*/
+  .video-container {
+    max-width: 100%; /* Ajusta este valor según lo necesario */
+    margin: 0 auto; /* Centra el video */
+  }
   /*Planes*/
   .planes {
     margin: 5vh;
