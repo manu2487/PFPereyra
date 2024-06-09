@@ -102,12 +102,12 @@
     font-size: inherit;
   }
   .contenedorPlanes {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 
   /*Prestadores*/
   .contenedorPrestadores {
-    flex-direction: column;
+    grid-template-columns: 1fr 1fr;
   }
 
   
